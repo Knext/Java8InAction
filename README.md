@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKnext%2FJava8InAction.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKnext%2FJava8InAction?ref=badge_shield)
+
 Java8InAction
 ===============
 
@@ -57,3 +59,6 @@ You can also import the project in your favorite IDE:
     * In IntelliJ use "File->Open" menu and navigate to the folder where the project resides
     * In Eclipse use "File->Import->Existing Maven Projects" (also modify "Reduntant super interfaces" to report as Warnings instead of Errors
     * In Netbeans use "File->Open Project" menu
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKnext%2FJava8InAction.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKnext%2FJava8InAction?ref=badge_large)
